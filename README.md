@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nurunnajwa12
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning C++,HTML,CSS and Java
 - 💞️ I’m from Malaysia
 - 📫  IG:@iamnurun
