@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurunnajwa12&label=Profile%20views&color=0e75b6&style=flat" alt="nurunnajwa12" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itsnurun" target="blank"><img src="https://img.shields.io/twitter/follow/itsnurun?logo=twitter&style=for-the-badge" alt="itsnurun" /></a> </p>
+
 
 - 🔭 I’m currently working on [Titanic - Machine Learning Disaster Competition](https://www.kaggle.com/competitions/titanic)
 
