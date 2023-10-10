@@ -13,15 +13,6 @@
 
 - 📫 How to reach me **nurunnajwa21@gmail.com**
 
-<h3 align="left">Badges:</h3>
-
-<p align="left">
-
- ![microsoft-certified-azure-data-fundamentals](https://github.com/Nurunnajwa12/Nurunnajwa12/assets/89633522/e90e2aef-4a84-48bb-bdfe-318d825d18f2) 
-
-![microsoft-certified-azure-fundamentals (2)](https://github.com/Nurunnajwa12/Nurunnajwa12/assets/89633522/355fcd04-b6f1-4da4-ae6c-31ddb579999d) 
-
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
