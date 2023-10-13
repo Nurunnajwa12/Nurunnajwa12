@@ -135,6 +135,7 @@
 <p>Check out these YouTube channels:</p>
 
 <ul>
+  <li><a href="https://youtube.com/@DataProfessor?feature=shared">Data Professor</a> - Learn about ML and Data Science .</li>
   <li><a href="https://youtube.com/@KeithGalli?feature=shared">Keith Galli</a> - Learn python with fun!.</li>
   <li><a href="https://youtube.com/@CodeBeauty?feature=shared">CodeBeauty</a> - Tutorials and guides on various programming topics especially C++.</li>
   <li><a href="https://youtube.com/@freecodecamp?feature=shared">freeCodeCamp</a> - Official YouTube channel of freeCodeCamp with coding tutorials and challenges.</li>
