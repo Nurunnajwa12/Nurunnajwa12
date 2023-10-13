@@ -21,6 +21,8 @@
     <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=Nurunnajwa12&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
+<h3 align="center">I'm an aspiring Data Engineering student who loves finding patterns and connecting dots: be it ideas from different industries, people from different backgrounds and teams, or applications from different industries. I have strong technical skills and an academic background in mathematics, engineering and statistics.</h3>
+
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nurunnajwa12&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Lorenzo O. Zimbres github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurunnajwa12&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
@@ -57,6 +59,25 @@
 
 
 <details open> 
+  <summary><h2>🧰 Data Playground </h2></summary>
+
+<ul>
+    <li><a href="https://mavenanalytics.io/data-playground">Maven Analytics Data Playground</a></li>
+    <li><a href="https://onyxdata.co.uk/data-dna-dataset-challenge/">Data DNA Dataset Challenge by Onyx Data</a></li>
+</ul>
+
+<p>I actively participate in dashboard challenges on LinkedIn. Check out my work:</p>
+
+<ul>
+    <li><a href="https://www.linkedin.com/posts/nurunnajwa-zulkifli_titanic-survivor-overview-activity-6985254473845661696-K4n2?utm_source=share&utm_medium=member_desktop">Titanic Survivor Overview</a></li>
+    <li><a href="https://www.linkedin.com/posts/nurunnajwa-zulkifli_platos-pizza-overview-activity-6989946623250362368-j1om?utm_source=share&utm_medium=member_desktop">Maven Pizza Challenge</a></li>
+    <li><a href="https://www.linkedin.com/posts/nurunnajwa-zulkifli_datadna-activity-7100319743315738624-zgT8?utm_source=share&utm_medium=member_desktop">Car Insurance Policies</a></li>
+</ul>
+</details>
+
+
+
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -78,6 +99,7 @@
 
   <p>
       <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="https://www.kaggle.com/"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
