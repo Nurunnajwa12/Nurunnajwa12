@@ -21,7 +21,7 @@
     <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=Nurunnajwa12&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
-<h3 align="center">I'm an aspiring Data Engineering student who loves finding patterns and connecting dots: be it ideas from different industries, people from different backgrounds and teams, or applications from different industries. I have strong technical skills and an academic background in mathematics, engineering and statistics.</h3>
+<h3 align="center">I'm an aspiring Data Engineering student who loves finding patterns and connecting dots: be it ideas from different industries, people from different backgrounds and teams, or applications from different industries. I have strong technical skills and an academic background in mathematics, programming and statistics.</h3>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nurunnajwa12&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Lorenzo O. Zimbres github stats" /> 
