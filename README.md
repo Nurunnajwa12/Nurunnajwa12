@@ -123,12 +123,31 @@
   </p>
 </details>
 
+  <h3>🧰 Resources </h3>
+
+<p>Explore these valuable learning platforms:</p>
+
+<ul>
+  <li><a href="https://www.w3schools.com/">W3Schools</a> - Interactive tutorials and references for web development.</li>
+  <li><a href="https://www.freecodecamp.org/">freeCodeCamp</a> - Learn to code and help nonprofits with your coding skills.</li>
+</ul>
+
+<p>Check out these YouTube channels:</p>
+
+<ul>
+  <li><a href="https://youtube.com/@KeithGalli?feature=shared">Keith Galli</a> - Learn python with fun!.</li>
+  <li><a href="https://youtube.com/@CodeBeauty?feature=shared">CodeBeauty</a> - Tutorials and guides on various programming topics especially C++.</li>
+  <li><a href="https://youtube.com/@freecodecamp?feature=shared">freeCodeCamp</a> - Official YouTube channel of freeCodeCamp with coding tutorials and challenges.</li>
+</ul>
+
+
+
 <details open>
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
 
   <p align="center">
     
-`![](https://raw.githubusercontent.com/Nurunnajwa12/Nurunnajwa12/output/github-contribution-grid-snake.svg)`
+![](https://raw.githubusercontent.com/Nurunnajwa12/Nurunnajwa12/output/github-contribution-grid-snake.svg)
 - Preview: ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
     
   </p>
