@@ -73,8 +73,11 @@
     <li><a href="https://www.linkedin.com/posts/nurunnajwa-zulkifli_platos-pizza-overview-activity-6989946623250362368-j1om?utm_source=share&utm_medium=member_desktop">Maven Pizza Challenge</a></li>
     <li><a href="https://www.linkedin.com/posts/nurunnajwa-zulkifli_datadna-activity-7100319743315738624-zgT8?utm_source=share&utm_medium=member_desktop">Car Insurance Policies</a></li>
 </ul>
-</details>
 
+ <p>You can download my dataset on Kaggle:</p>
+  
+  - [Skincare Survey among Malaysian 2021](https://www.kaggle.com/datasets/nurunnz/skincare-survey-among-malaysian-2021)
+</details>
 
 
 <details open> 
@@ -122,6 +125,13 @@
       <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
+### 🎖 Certifications
+
+- [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/d04c878f-6773-432a-a01f-e855a4ab7561/linked_in_profile)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/985d2f79-221a-41f1-8bc7-97e58709cd6c/linked_in_profile)
+- [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/6830bbcc-2520-4c69-864b-f0d058d3f00a?source=linked_in_profile)
+
 
   <h3>🧰 Resources </h3>
 
