@@ -131,6 +131,9 @@
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/d04c878f-6773-432a-a01f-e855a4ab7561/linked_in_profile)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/985d2f79-221a-41f1-8bc7-97e58709cd6c/linked_in_profile)
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/6830bbcc-2520-4c69-864b-f0d058d3f00a?source=linked_in_profile)
+- [Introduction to Machine Learning Certification by Kaggle](https://www.kaggle.com/learn/certification/nurunnz/intro-to-machine-learning)
+- [Python Certification by Kaggle](https://www.kaggle.com/learn/certification/nurunnz/python)
+- [Introduction to Programming Certification by Kaggle](https://www.kaggle.com/learn/certification/nurunnz/intro-to-programming)
 
 
   <h3>🧰 Resources </h3>
